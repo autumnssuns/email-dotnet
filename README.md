@@ -2,10 +2,10 @@
 
 ## Installation
 
-Run the following command in the root directory of the project to install the required packages.
+Run the following command to clone the repository.
 
 ```
-dotnet add package Microsoft.Graph
+git clone https://github.com/autumnssuns/email-dotnet.git
 ```
 
 Modify the `appsettings.json > "Smtp"` host and port to match the host, port and SSL of your SMTP server.
