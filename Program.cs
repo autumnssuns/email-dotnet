@@ -1,6 +1,6 @@
 ﻿using ExcelDataReader;
 using Microsoft.Extensions.Configuration;
-using outlook_dotnet;
+using EmailDotnet;
 using System.Net.Mail;
 using System.Net.Mime;
 class Program

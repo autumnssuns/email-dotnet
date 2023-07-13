@@ -4,7 +4,7 @@ using System.Collections.Specialized;
 using Microsoft.Graph.Models.ExternalConnectors;
 using System.Runtime.CompilerServices;
 
-namespace outlook_dotnet
+namespace EmailDotnet
 {
     class EmailClient
     {

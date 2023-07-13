@@ -1,4 +1,4 @@
-# .NET Console Application to send Emails using Microsoft Graph API
+# .NET Console Application to send Emails using SMTP
 
 ## Installation
 

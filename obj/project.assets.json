@@ -2804,9 +2804,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\autum\\source\\repos\\outlook-dotnet\\outlook-dotnet.csproj",
-      "projectName": "outlook-dotnet",
-      "projectPath": "C:\\Users\\autum\\source\\repos\\outlook-dotnet\\outlook-dotnet.csproj",
+      "projectUniqueName": "C:\\Users\\autum\\source\\repos\\outlook-dotnet\\email-dotnet.csproj",
+      "projectName": "email-dotnet",
+      "projectPath": "C:\\Users\\autum\\source\\repos\\outlook-dotnet\\email-dotnet.csproj",
       "packagesPath": "C:\\Users\\autum\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\autum\\source\\repos\\outlook-dotnet\\obj\\",
       "projectStyle": "PackageReference",
